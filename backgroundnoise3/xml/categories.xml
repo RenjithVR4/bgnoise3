@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://christopheradams.com/bgnoise/images/banner540by60.png" hd_img="http://christopheradams.com/bgnoise/images/banner728by90.png"/>
+	  
+	<category title="Random Videos" description="Random Videos from around the Web" sd_img="http://christopheradams.com/bgnoise/images/sd214by144.png" hd_img="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<categoryLeaf title="More Random Videos" description="" feed="http://christopheradams.com/bgnoise/xml/themind.xml"/>
+	</category>
+
+ </categories>

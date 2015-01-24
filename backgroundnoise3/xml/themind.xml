@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>13</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>13</endIndex>
+	<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>Close eyes, push left + right randomly, + hit ok twice</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/chi95_10_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10002</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/infoinlife/TLT_Presentation_Lip_Sync.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10004</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/infoinlife/JimmyWalesQA.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+	<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10005</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/infoinlife/blogger_conference_1.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+			<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10006</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/infoinlife/Brian_Sturm_Storytelling.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10007</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/infoinlife/INLS881-Elizabeth-L-Innovation.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+	</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10008</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/chi95_14_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>
+
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10009</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/ucomp03_09_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>	
+
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10010</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/ucomp03_05_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10011</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/cscw94_03_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>	
+
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10012</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/cscw94_08_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>			
+
+		<!--Searching open-video.org on page 365 of 3902 videos going backwards -->
+		<item sdImg="http://christopheradams.com/bgnoise/images/sd214by144.png" hdImg="http://christopheradams.com/bgnoise/images/hd290by218.png">
+		<title>More Random Videos from the Web</title>
+		<contentId>10013</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>sd</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>sd</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.ibiblio.org/openvideo/video/chi/siggraph_03_m4.mp4</streamUrl>
+		</media>
+		<synopsis>Just some background noise!</synopsis>
+		<genres>Clip</genres>
+		<runtime>1260</runtime>
+		</item>		
+
+
+
+</feed>
